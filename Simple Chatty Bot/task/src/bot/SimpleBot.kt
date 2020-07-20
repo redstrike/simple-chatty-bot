@@ -2,7 +2,6 @@ package bot
 
 import java.util.*
 
-
 val scanner = Scanner(System.`in`) // Do not change this line
 
 fun main() {
